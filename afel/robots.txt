@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-# 公開URLが決まったら sitemap.xml のURLも更新してください
-Sitemap: https://example.com/sitemap.xml
